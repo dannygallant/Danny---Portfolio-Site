@@ -1,3 +1,17 @@
-/*.header {
-	display: inline-block;
-}*/
+.dgInfo p {
+	font-size: 17px;
+}
+
+.copyright p {
+	font-size: 9px;
+}
+
+.pics {
+-webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.4);
+-moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.4);
+box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.4);
+}
+
+h5 {
+	text-decoration: bold;
+}
